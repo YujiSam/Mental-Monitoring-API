@@ -181,7 +181,16 @@ A Mental Monitoring API apoia esse objetivo ao possibilitar:
 
     A organização de consultas e histórico de acompanhamento psicológico.
 
-🧑‍💻 Autores
+✅ Resumo rápido
+Entidade	Métodos Disponíveis	Endpoint base
+Pacientes	GET / GET/{id} / POST / PUT / DELETE	/api/pacientes
+Profissionais	GET / GET/{id} / POST / PUT / DELETE	/api/profissionais
+Consultas	GET / GET/{id} / POST / PUT / DELETE	/api/consultas
+Recursos	GET / GET/{id} / POST / PUT / DELETE	/api/recursos
+
+```
+
+# 🧑‍💻 Autores
 
 Gustavo Yuji Osugi - RM 555034
 
@@ -189,11 +198,4 @@ Renan Simões Gonçalves - RM 555584
 
 Victor Hugo de Paula - RM 554787
 
-📅 Global Solution 2025
-
-✅ Resumo rápido
-Entidade	Métodos Disponíveis	Endpoint base
-Pacientes	GET / GET/{id} / POST / PUT / DELETE	/api/pacientes
-Profissionais	GET / GET/{id} / POST / PUT / DELETE	/api/profissionais
-Consultas	GET / GET/{id} / POST / PUT / DELETE	/api/consultas
-Recursos	GET / GET/{id} / POST / PUT / DELETE	/api/recursos
+## 📅 Global Solution 2025

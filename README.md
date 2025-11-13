@@ -68,7 +68,7 @@ mental-monitoring-api/
 ```bash
 1️⃣ **Baixe o projeto**
 
-git clone https://github.com/seu-usuario/mental-monitoring-api.git
+git clone https://github.com/YujiSam/Mental-Monitoring-API.git
 
 2️⃣ Acesse a pasta
 
